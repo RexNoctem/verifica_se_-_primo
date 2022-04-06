@@ -1,6 +1,6 @@
 print("Programa que identifica se um número é primo\n")
 
-numero = int(input("Verificar numeros primos ate: "))
+numero = int(input("Verificar se é primo: "))
 qtd_divisores=0
 
 for divisores in range(2,numero):
